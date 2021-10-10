@@ -883,20 +883,38 @@ html,body{
         top:17%;
         font-size:35px;
     }
+    .div2 .innerdiv2{
+        position:relative;
+        top:7%;
+        left:7%;
+        height:60%;
+        width:85%;
+    }
+    .div2 .innerdiv2 .certificate{
+        position:relative;
+        top:15%;
+        font-size:45px;
+        font-family: 'Work Sans', sans-serif;
+        font-weight: 300;
+    }
     .div2 .innerdiv2 .name{
-        top:19%;
-        font-size:32px;
+        position:relative;
+        top:13%;
+        font-size:55px;
         font-family: 'Work Sans', sans-serif;
     }
     .div2 .innerdiv2 .timeframe{
-        top:15%;
-        font-size:17px;
+        position:relative;
+        top:7%;
+        font-size:20px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 100;
     }
     .div2 .innerdiv2 .stage{
         position:relative;
-        top:15%;
+        top:11%;
         color: #00AEFF;
-        font-size:17px;
+        font-size:20px;
         font-family: 'Work Sans', sans-serif;
         font-weight: 500;
     }
@@ -929,24 +947,38 @@ html,body{
         margin-right:120px;
     }
     
+    .div2 .innerdiv2{
+        position:relative;
+        top:7%;
+        left:7%;
+        height:60%;
+        width:85%;
+    }
     .div2 .innerdiv2 .certificate{
-        top:17%;
-        font-size:35px;
+        position:relative;
+        top:15%;
+        font-size:45px;
+        font-family: 'Work Sans', sans-serif;
+        font-weight: 300;
     }
     .div2 .innerdiv2 .name{
-        top:19%;
-        font-size:32px;
+        position:relative;
+        top:13%;
+        font-size:55px;
         font-family: 'Work Sans', sans-serif;
     }
     .div2 .innerdiv2 .timeframe{
-        top:15%;
-        font-size:17px;
+        position:relative;
+        top:7%;
+        font-size:20px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 100;
     }
     .div2 .innerdiv2 .stage{
         position:relative;
-        top:15%;
+        top:11%;
         color: #00AEFF;
-        font-size:17px;
+        font-size:20px;
         font-family: 'Work Sans', sans-serif;
         font-weight: 500;
     }
@@ -978,24 +1010,38 @@ html,body{
         font-size: 16.5px;
         margin-right:120px;
     }
+    .div2 .innerdiv2{
+        position:relative;
+        top:7%;
+        left:7%;
+        height:60%;
+        width:85%;
+    }
     .div2 .innerdiv2 .certificate{
-        top:17%;
-        font-size:35px;
+        position:relative;
+        top:15%;
+        font-size:45px;
+        font-family: 'Work Sans', sans-serif;
+        font-weight: 300;
     }
     .div2 .innerdiv2 .name{
-        top:19%;
-        font-size:32px;
+        position:relative;
+        top:13%;
+        font-size:55px;
         font-family: 'Work Sans', sans-serif;
     }
     .div2 .innerdiv2 .timeframe{
-        top:15%;
-        font-size:17px;
+        position:relative;
+        top:7%;
+        font-size:20px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 100;
     }
     .div2 .innerdiv2 .stage{
         position:relative;
-        top:15%;
+        top:11%;
         color: #00AEFF;
-        font-size:17px;
+        font-size:20px;
         font-family: 'Work Sans', sans-serif;
         font-weight: 500;
     }
