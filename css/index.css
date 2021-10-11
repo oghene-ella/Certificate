@@ -385,15 +385,19 @@ html,body{
     }
     .div2 .innerdiv2 .certificate{
         font-size:35px;
+        
     }
     .div2 .innerdiv2 .name{
         font-size:47px;
+        top:17%;
     }
     .div2 .innerdiv2 .timeframe{
         font-size:20px;
+        top:13%;
     }
     .div2 .innerdiv2 .stage{
         font-size:20px;
+        top:12%;
     }
 }
 @media (min-width:780px) and (max-width:810px){
@@ -426,12 +430,15 @@ html,body{
     }
     .div2 .innerdiv2 .name{
         font-size:47px;
+        top:17%;
     }
     .div2 .innerdiv2 .timeframe{
         font-size:20px;
+        top:13%;
     }
     .div2 .innerdiv2 .stage{
         font-size:20px;
+        top:12%;
     }
 }
 @media (min-width:740px) and (max-width:780px){
@@ -464,12 +471,15 @@ html,body{
     }
     .div2 .innerdiv2 .name{
         font-size:45px;
+        top:17%;
     }
     .div2 .innerdiv2 .timeframe{
         font-size:18px;
+        top:13%;
     }
     .div2 .innerdiv2 .stage{
         font-size:18px;
+        top:12%;
     }
 }
 @media (min-width:700px) and (max-width:740px){
@@ -503,12 +513,15 @@ html,body{
     }
     .div2 .innerdiv2 .name{
         font-size:45px;
+        top:17%;
     }
     .div2 .innerdiv2 .timeframe{
         font-size:18px;
+        top:13%;
     }
     .div2 .innerdiv2 .stage{
         font-size:18px;
+        top:12%;
     }
     .div2 .innerdiv3{
         position:relative;
@@ -560,12 +573,15 @@ html,body{
     }
     .div2 .innerdiv2 .name{
         font-size:45px;
+        top:17%;
     }
     .div2 .innerdiv2 .timeframe{
         font-size:18px;
+        top:13%;
     }
     .div2 .innerdiv2 .stage{
         font-size:18px;
+        top:12%;
     }
     .div2 .innerdiv3{
         position:relative;
@@ -1075,7 +1091,7 @@ html,body{
     }
     .div2 .innerdiv2 .stage{
         position:relative;
-        top:8.5%;
+        top:7.5%;
         color: #00AEFF;
         font-size:16px;
         font-family: 'Work Sans', sans-serif;
